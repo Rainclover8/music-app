@@ -2,6 +2,7 @@ html{
   height: 100vh;
   background-color: black;
   color: white;
+  text-decoration: none;
 }
 #root{
   height: 100%;
@@ -22,6 +23,8 @@ button{
   width: 100%;
   margin: auto;
   cursor: pointer;
+  color: black;
+  font-size: 35px;
 }
 
 button:nth-child(1){
